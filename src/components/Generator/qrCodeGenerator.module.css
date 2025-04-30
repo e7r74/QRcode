@@ -1,0 +1,28 @@
+body {
+  height: 100vh;
+  margin: 0;
+  background-image: url('https://img.freepik.com/premium-photo/abstract-white-studio-background-product-presentation-empty-room-with-shadows-window-display-product-with-blurred-backdrop_155275-479.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.imput {
+  width: 300px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: rgba(102, 51, 153, 0.308);
+  margin: 25px 0;
+}
+.button {
+  width: 300px;
+  height: 40px;
+  background-color: rgba(127, 255, 212, 0.479);
+  border-radius: 5px;
+}

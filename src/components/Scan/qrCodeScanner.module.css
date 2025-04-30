@@ -1,0 +1,24 @@
+body {
+  height: 100vh;
+  margin: 0;
+  background-image: url('https://img.freepik.com/premium-photo/abstract-white-studio-background-product-presentation-empty-room-with-shadows-window-display-product-with-blurred-backdrop_155275-479.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.videoWrapper {
+  border-radius: 20px;
+}
+
+.text {
+  font-size: 20px;
+  text-decoration: none;
+}

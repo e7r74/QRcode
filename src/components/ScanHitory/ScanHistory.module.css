@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+
+  justify-content: center;
+  gap: 100px;
+}
+.result {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
